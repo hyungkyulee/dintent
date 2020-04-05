@@ -1,0 +1,2 @@
+# dintent
+Cloud Goodnews Platform
